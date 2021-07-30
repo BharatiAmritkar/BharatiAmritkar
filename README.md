@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BharatiAmritkar/HEAD?filepath=README.md)
 <!--
 **BharatiAmritkar/BharatiAmritkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
